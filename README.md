@@ -18,8 +18,8 @@ Regularly adding projects an academic assignments to practice my collaboration s
 
 👥 Version Control and Collaboration: Github
 
-[![LuisFernandoVillalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandoVillalon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoVillalon&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![LuisFVillalon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFVillalon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFVillalon&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me!
 - 📧: lvillalon1179@sdsu.edu
