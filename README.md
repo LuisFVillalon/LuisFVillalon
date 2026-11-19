@@ -8,7 +8,7 @@ Hi! I'm Luis F. Villalon, a former first responder turned developer, with a pass
 
 ##  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/heisencat.png" width="40px" height="40px" /> Currently Working On
 - Expanding my technical knowledge of AI and agentic systems through programs such as CodePath, independent learning, and my undergraduate Computer Science coursework.
-- Building Task Master, a personal full-stack application for managing habits, tasks, and notes. I use this project to strengthen my full-stack development skills while exploring practical applications of AI in development and production environments.
+- Building kanso, a personal full-stack application for managing habits, tasks, and notes. I use this project to strengthen my full-stack development skills while exploring practical applications of AI in development and production environments.
 - Maintaining my technical blog and portfolio, where I document projects, technical concepts, and lessons from my development journey.
 - Seeking opportunities to contribute to open-source projects, collaborate with other developers, and gain experience working within established codebases.
 - Preparing to enter my final year of undergraduate Computer Science while strengthening my technical skills and beginning my search for software engineering opportunities.
